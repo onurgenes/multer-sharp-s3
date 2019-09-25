@@ -425,10 +425,10 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/sharp@0.17.10":
-  version "0.17.10"
-  resolved "https://registry.yarnpkg.com/@types/sharp/-/sharp-0.17.10.tgz#4f546861c53fae2b1bffcdd1ae7e691cc68afa52"
-  integrity sha512-nISitptrYm6hUpiC+vN21cbT8Of54TubXY95N+pcqNCmmXZqd1hRk7fC5HYRRQwWJiKV/NLHx8f4CxPIsIQXqg==
+"@types/sharp@0.22.3":
+  version "0.22.3"
+  resolved "https://registry.yarnpkg.com/@types/sharp/-/sharp-0.22.3.tgz#db64657398be95c4f4d70d5a81a849bfada6422d"
+  integrity sha512-4fP7DGvNMlk6qy3rtsC24rLttg7oa0yVugFXPRmD8kGxHLvoqiRTVUbcK3qB0eYK6pO9mBWkzAAL7lV1htig3A==
   dependencies:
     "@types/node" "*"
 
